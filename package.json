@@ -12,7 +12,8 @@
   "author": "michaelpiper",
   "license": "ISC",
   "dependencies": {
-    "nodemon": "^1.19.1"
+    "nodemon": "^1.19.1",
+    "request": "^0.1"
   },
   "devDependencies": {}
 }
